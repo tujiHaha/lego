@@ -1,0 +1,2 @@
+# lego
+component  server
